@@ -1,2 +1,2 @@
 # HackerRankSQL
-Hackerrank prepare SQL (Basic)
+Hackerrank prepare SQL (Basic) solutions 
